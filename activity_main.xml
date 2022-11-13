@@ -82,7 +82,7 @@
 				android:layout_width="140dp"
 				android:layout_height="140dp"
 				android:padding="10dp"
-				android:src="@drawable/dice-6" />
+				android:src="@drawable/dice_6" />
 
 
 			<ImageView
@@ -90,7 +90,7 @@
 				android:layout_width="140dp"
 				android:layout_height="140dp"
 				android:padding="10dp"
-				android:src="@drawable/dice-6" />
+				android:src="@drawable/dice_6" />
 
 		</LinearLayout>
 
