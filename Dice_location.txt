@@ -1,0 +1,1 @@
+put dice images in aap>res>drawable folder in Android Studio Project
